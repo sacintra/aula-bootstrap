@@ -1,0 +1,20 @@
+body {
+    font: 20px tahoma;
+}
+
+.navbar {
+    background-color: #C70039 ;
+}
+
+.quem-somos {
+    background-color: #FF5733;
+    color: white;
+}
+
+.margin {
+padding: 40px;
+}
+
+.servicos {
+    background-color: #FFC300;
+}
